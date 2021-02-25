@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Swaziland Radio Fm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="admob_app_id">ca-app-pub-2350070540824577~7864113157</string>
+    <string name="admob_unit_id">ca-app-pub-2350070540824577/5289920708</string>
+
+    <dimen name="seek_bar_thickness">4dp</dimen>
+    <dimen name="seek_bar_thumb_size">20dp</dimen>
+</resources>

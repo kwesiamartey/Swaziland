@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/searchBar"
+        android:icon="@drawable/ic_search"
+        android:title="Favorite"
+        app:showAsAction="ifRoom|collapseActionView" />
+   <!-- <item
+        android:id="@+id/share_btn"
+        android:icon="@drawable/ic_share"
+        android:title="Share"
+        app:showAsAction="always" />-->
+    <item
+        android:id="@+id/fav"
+        android:title="Favourite" />
+   <!-- <item
+        android:id="@+id/record"
+        android:title="Recording" />-->
+    <item
+        android:id="@+id/exit"
+        android:title="Exit" />
+</menu>
